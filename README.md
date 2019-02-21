@@ -8,7 +8,7 @@ An introduction to the topics:
 ## What to Install
 Pretty much this time ;-(
 
-Follow this [guide](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hywqMF7URCRSr9EgpD2bUE/edit?usp=sharing), and install acording to your ambitions. If you pick the red track, you will have a perfect plaform to continue on, if you plan for a future related to security.
+Follow this [guide](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hywqMF7URCRSr9EgpD2bUE/edit?usp=sharing), and install acording to your ambitions. If you go with the yellow/red track, you will have a perfect platform to continue with, if you plan for a future related to security.
 
 __*I will assume you have installed the software BEFORE the lesson. We will not spend time with this in the class. This is 4. semester, so I expect you have heard about this "thing" called Google ;-)*__
 
