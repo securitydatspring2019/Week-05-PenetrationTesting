@@ -14,14 +14,13 @@ __*I will assume you have installed the software BEFORE the lesson. We will not 
 
 ## What to Read/Watch
 
--:tv: [Pen Testing Tips (Cartoon introduction, with a lot of important topics in short time (10 min)](https://www.youtube.com/watch?v=OrjcnFTTDj8)
-- Scan, as in SCAN ONLY, this [Table of Content](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) just to see how big a topic this really is.
-- Read this [section](https://www.owasp.org/index.php/Testing_Guide_Introduction#The_OWASP_Testing_Project) from the guide refered to above. Read until the section "The need for a Balanced Approach"
+- :tv: [Pen Testing Tips (Cartoon introduction, with a lot of important topics in short time (10 min)](https://www.youtube.com/watch?v=OrjcnFTTDj8)
+- :green_book: Scan, as in SCAN ONLY, this [Table of Content](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) just to see how big a topic this really is (10-15 min).
+- :green_book:[section](https://www.owasp.org/index.php/Testing_Guide_Introduction#The_OWASP_Testing_Project) from the guide refered to above. Read until the section "The need for a Balanced Approach" (15 min.)
 
 ## Slides
 [Pentesting,tools and how to practice (TBD)](#)
 
 ## Exercises
 
-[Penetration Testing with nmap (TBD)](#
-)
+[Penetration Testing with nmap (TBD)](#)
