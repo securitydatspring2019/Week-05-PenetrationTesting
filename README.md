@@ -5,14 +5,14 @@ An introduction to the topics:
 - Tools used to do Penetration Testing (there are "billions, we will only look at a few)
 - How to practice Penetration Testing Skills
 
-## What to Install
+## What to Install :cd:
 Pretty much this time ;-(
 
 Follow this [guide](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hywqMF7URCRSr9EgpD2bUE/edit?usp=sharing), and install acording to your ambitions. If you go with the yellow/red track, you will have a perfect platform to continue with, if you plan for a future related to security.
 
 __*I will assume you have installed the software BEFORE the lesson. We will not spend time with this in the class. This is 4. semester, so I expect you have heard about this "thing" called Google ;-)*__
 
-## What to Read/Watch
+## What to Read/Watch :information_source:
 
 - :tv: [Pen Testing Tips (Cartoon introduction, with a lot of important topics in short time (10 min)](https://www.youtube.com/watch?v=OrjcnFTTDj8)
 - :green_book: Scan, as in SCAN ONLY, this [Table of Content](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) just to see how big a topic this really is (10-15 min).
@@ -21,6 +21,6 @@ __*I will assume you have installed the software BEFORE the lesson. We will not 
 ## Slides
 [Pentesting,tools and how to practice (TBD)](#)
 
-## Exercises
+## Exercises :sparkler:
 
 [Penetration Testing with nmap](https://docs.google.com/document/d/1yo5B2Vqh_v_8zx3bIbwZyZnZyaH3erRen1WEinjIbQg/edit?usp=sharing)
