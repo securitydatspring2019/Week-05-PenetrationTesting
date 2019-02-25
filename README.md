@@ -23,4 +23,4 @@ __*I will assume you have installed the software BEFORE the lesson. We will not 
 
 ## Exercises
 
-[Penetration Testing with nmap (TBD)](#)
+[Penetration Testing with nmap](https://docs.google.com/document/d/1yo5B2Vqh_v_8zx3bIbwZyZnZyaH3erRen1WEinjIbQg/edit?usp=sharing)
