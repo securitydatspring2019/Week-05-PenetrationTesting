@@ -1,4 +1,5 @@
 [snippet](https://docs.google.com/document/d/1JeVxni4WxM2Kli7Nu68uioooiq4PnYOEeb1ZzMyQvsk/edit)
+
 #Week5 - Penetrations Testing and Tools
 An introduction to the topics:
 - Security Testing
