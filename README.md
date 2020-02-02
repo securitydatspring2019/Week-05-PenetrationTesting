@@ -15,7 +15,7 @@ Follow this [guide](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hyw
 
 __*I will assume you have installed the software BEFORE the lesson. We will not spend time with this in the class. This is 4. semester, so I expect you have heard about this "thing" called Google ;-)*__
 
-## What to Read/Watch :information_source:
+## What to Read/Watch
 
 - :tv: [Pen Testing Tips (Cartoon introduction, with a lot of important topics in short time (10 min) )](https://www.youtube.com/watch?v=OrjcnFTTDj8)
 - :green_book: Scan, as in SCAN ONLY, this [Table of Content](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) just to see how big a topic this really is (10-15 min).
