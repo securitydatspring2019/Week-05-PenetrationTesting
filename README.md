@@ -2,12 +2,11 @@
 
 # Week5 - Penetrations Testing and Tools
 An introduction to the topics:
-- Security Testing
-- We will focus on Penetration Testing
-- Tools used to do Penetration Testing (there are "billions, we will only look at a few)
+- Security Testing, with focus on Penetration Testing
+- Tools meant for Penetration Testing (there are "billions, we will only look at a few)
 - How to practice Penetration Testing Skills
 
-## What to Install BEFORE the lesson :cd:
+## What to Install BEFORE!!! the lesson :cd:
 Pretty much this time ;-)
 
 :tv: [Watch this video before you start installing (30 MIN.)](https://www.youtube.com/watch?v=fnJfGfm2g-0). It provides a lot of important information related to: Today's lecture, why we do what we do, and how to install the required software.
