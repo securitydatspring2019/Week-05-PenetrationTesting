@@ -11,7 +11,7 @@ Pretty much this time ;-)
 
 :tv: [WATCH this VIDEO (all of it) before you start installing (30 MIN.)](https://www.youtube.com/watch?v=fnJfGfm2g-0). It provides a lot of important information related to: Today's lecture, why we do what we do, and how to install the required software.
 
-Follow this [guide](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hywqMF7URCRSr9EgpD2bUE/edit?usp=sharing), and install acording to your ambitions. If you go with the yellow/red track, you will have a perfect platform to continue with, if you plan for a future related to security.
+Follow this [guide](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hywqMF7URCRSr9EgpD2bUE/edit?usp=sharing), and install acording to your ambitions (If you have installed while watching the video above, you are already done). If you go with the yellow/red track, you will have a perfect platform to continue with, if you plan for a future related to security.
 
 __*I will assume you have installed the software BEFORE the lesson. We will not spend time with this in the class. This is 4. semester, so I expect you have heard about this "thing" called Google ;-)*__
 
