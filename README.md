@@ -7,8 +7,10 @@ An introduction to the topics:
 - Tools used to do Penetration Testing (there are "billions, we will only look at a few)
 - How to practice Penetration Testing Skills
 
-## What to Install :cd:
-Pretty much this time ;-(
+## What to Install BEFORE the lesson :cd:
+Pretty much this time ;-)
+
+:tv: [Watch this video before you start installing (30 MIN.)](https://www.youtube.com/watch?v=fnJfGfm2g-0). It provides a lot of important information related to: Today's lecture, why we do what we do, and how to install the required software.
 
 Follow this [guide](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hywqMF7URCRSr9EgpD2bUE/edit?usp=sharing), and install acording to your ambitions. If you go with the yellow/red track, you will have a perfect platform to continue with, if you plan for a future related to security.
 
