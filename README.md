@@ -22,7 +22,7 @@ __*I will assume you have installed the software BEFORE the lesson. We will not 
 - :green_book:[section](https://www.owasp.org/index.php/Testing_Guide_Introduction#The_OWASP_Testing_Project) from the guide refered to above. Read until the section "The need for a Balanced Approach" (15 min.)
 
 ## Slides
-[Pentesting,tools and how to practice (TBD)](#)
+[Pentesting,tools and how to practice](https://docs.google.com/presentation/d/1GGWBiGaPAAJZHA8CfWyiMXmjFqZBNzNiN7NAYMQSTGg/edit?usp=sharing)
 
 ## Exercises :memo:
 
